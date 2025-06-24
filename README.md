@@ -1,6 +1,6 @@
 # Movie Booking App (Hackathon Project)
 
-This project was developed during a 5-hour hackathon at **Dovami – Design Lab**. It is a simple movie ticket booking application built using **Angular**. The app allows users to:
+This project was developed during a 5-hour hackathon at **Divami Design Labs**. It is a simple movie ticket booking application built using **Angular**. The app allows users to:
 
 - Select an existing movie
 - Choose seat(s)
